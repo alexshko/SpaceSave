@@ -22,7 +22,7 @@
 #no need for Photon
 [Aa]ssets/Photon/PhotonUnityNetworking/Resources
 #no need for assets from the asset store.
-[Aa]ssets/[Aa]ssets/*
+[Aa]ssets/[Aa]ssets/*/*
 
 # Visual Studio cache directory
 .vs/
